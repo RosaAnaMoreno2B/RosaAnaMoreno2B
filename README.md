@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rosa Ana Moreno</h1>
 <h3 align="center">A passionate frontend artist and modeler from Spain</h3>
 
-- 🔭 I’m currently working on **Mason's Hell**
-
 - 🌱 I’m currently learning **Modeling, 3D animation and videogame**
 
 - 👨‍💻 All of my projects are available at [rosi_moreno.artstation.com](rosi_moreno.artstation.com)
